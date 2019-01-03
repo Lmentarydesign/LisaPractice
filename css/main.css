@@ -64,7 +64,9 @@ header h2 span {
     color: #2b2b2b;
 }
 /***** ABOUT *****/
-
+#about {
+    background: #f9ceb7;
+}
 #about .full-width {
     padding: 80px 0;
 }
